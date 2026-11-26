@@ -1,0 +1,7 @@
+{
+  "name": "ai-hooks-demo",
+  "environment": "demo",
+  "features": {
+    "sampleMode": true
+  }
+}

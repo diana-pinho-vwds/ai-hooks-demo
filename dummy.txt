@@ -1,0 +1,2 @@
+This is a dummy file for testing AI hooks.
+You can safely read, edit, or replace this text during a demo.
